@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+mariadb-dump --defaults-file=db-workspace-localhost.config --skip-ssl --protocol=tcp --compress=TRUE --default-character-set=utf8 --no-create-db ws_app > ws_app_localhost.$(date -d "today" +"%Y-%m-%d-%H-%M").sql

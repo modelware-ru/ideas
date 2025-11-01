@@ -1,0 +1,19 @@
+{
+    "date": "2025-07-11 19:09:12",
+    "query": {
+        "a": "1",
+        "b": "2"
+    },
+    "headerList": {
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Content-Length": "21",
+        "Anotherheader": "12",
+        "Myheader": "value",
+        "Accept": "*\/*",
+        "Host": "localhost:8823"
+    },
+    "body": {
+        "one": 1,
+        "two": "two"
+    }
+}

@@ -1,0 +1,11 @@
+there is no active game, check game URL (test: games-test.datsteam.dev  prod: games.datsteam.dev),
+current time: 2025-07-11T16:17:44Z ,
+next rounds: 
+[antprotocol-day1-2: 2025-07-11T16:20:00Z -- 2025-07-11T16:35:00Z]
+[antprotocol-day1-3: 2025-07-11T16:40:00Z -- 2025-07-11T16:55:00Z]
+[antprotocol-day1-4: 2025-07-11T17:00:00Z -- 2025-07-11T17:15:00Z]
+[antprotocol-day1-5: 2025-07-11T17:20:00Z -- 2025-07-11T17:35:00Z]
+[antprotocol-day1-6: 2025-07-11T17:40:00Z -- 2025-07-11T17:55:00Z]
+[antprotocol-day1-7: 2025-07-11T18:00:00Z -- 2025-07-11T18:15:00Z]
+[antprotocol-day1-8: 2025-07-11T18:20:00Z -- 2025-07-11T18:35:00Z]
+[antprotocol-day1-9: 2025-07-11T18:40:00Z -- 2025-07-11T18:55:00Z]

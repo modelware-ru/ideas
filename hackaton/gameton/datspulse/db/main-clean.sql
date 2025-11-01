@@ -1,0 +1,8 @@
+SET FOREIGN_KEY_CHECKS=0;
+
+DROP DATABASE IF EXISTS gameton_datspulse;
+CREATE DATABASE gameton_datspulse CHARACTER SET utf8;
+
+SET FOREIGN_KEY_CHECKS=1;
+
+USE gameton_datspulse;
